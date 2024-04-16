@@ -21,6 +21,8 @@ button {
 .flexContenedorVertical{
     display: flex;
     background-image: url(../recursos/imagenes/ferrocaril.jpeg);
+    background-color: rgba(0, 0, 0, 0.7);
+    background-blend-mode: darken;
     background-size: cover;
     flex-direction: column;
     padding-left: 15%;
@@ -157,7 +159,7 @@ button {
     display: flex;
     width: 34%;
     justify-content: flex-end;
-    margin-left: 50px;
+    margin-left: 35px;
 }
 .divPaginas{
     display: flex;
